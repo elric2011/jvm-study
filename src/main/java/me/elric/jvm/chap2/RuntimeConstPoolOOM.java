@@ -1,4 +1,4 @@
-package dp.tomato.elric.jvm;
+package me.elric.jvm.chap2;
 
 import java.util.ArrayList;
 import java.util.List;

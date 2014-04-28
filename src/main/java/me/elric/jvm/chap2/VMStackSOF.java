@@ -1,4 +1,4 @@
-package dp.tomato.elric.jvm;
+package me.elric.jvm.chap2;
 
 /**
  * VM Args: -Xss128K
